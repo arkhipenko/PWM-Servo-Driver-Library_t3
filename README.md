@@ -1,4 +1,5 @@
-This is a library for our Adafruit 16-channel PWM & Servo driver
+##This is a library for our Adafruit 16-channel PWM & Servo driver
+This library has beed adapted to use Teensy's I2C_T3 TWI library
 
   Pick one up today in the adafruit shop!
   ------> http://www.adafruit.com/products/815
